@@ -1,0 +1,161 @@
+# Webalizer V2.01-10 Incremental Data - 04/23/2011 18:40:46
+2011 4 23 18 40 46
+11 11 6 1 1 11 704 11 11 0 0 0
+1 1 2 5 23
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+1 1 64 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 64 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 128 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 64 1 0 0
+1 1 64 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 64 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 128 2 0 0
+0 0 0 0 0 0
+1 1 64 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 64 1 0 0
+1 1 64 1 0 0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 11 0 704 11 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+static-208-80-194-27.as13448.com
+0 1 1 64 1 1302341379
+- 0 0
+static-208-80-194-32.as13448.com
+0 1 1 64 1 1302972174
+- 0 0
+static-208-80-194-36.as13448.com
+0 1 1 64 1 1303121668
+- 0 0
+static-208-80-194-35.as13448.com
+0 2 2 128 2 1303584046
+/ 0 0
+static-208-80-194-29.as13448.com
+0 4 4 256 4 1303429999
+- 0 0
+static-208-80-194-34.as13448.com
+0 2 2 128 2 1302183104
+- 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+static-208-80-194-35.as13448.com
+0 1 1 64 1 1303584046
+/ 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; yplus 5.1.03b)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {51F8E5D6-D449-421F-BF01-FD43E02BD1F3}; .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; iebar; InfoPath.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {13F19C04-8B5E-404A-BB50-48F1ACB3FB1A}; .NET CLR 1.0.3705; .NET CLR 1.1.43
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; cust 1.552r6)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; HbTools 4.7.5; .NET CLR 3.0.04506.3
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; .NET CLR 2.0.50727; InfoPath.1; ZangoToolbar 4.8.2; yplus 
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {D2FDDBA6-A06E-9AE6-5121-A0F29497F84E}; .NET CLR 1.1.4322)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; CMS Music Store2 v1.00.09 (Music Store,1033))
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {C4524109-CC5E-6B24-9734-09E256C653BB}; InfoPath.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YPC 3.0.3; .NET CLR 1.0.3705)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

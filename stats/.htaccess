@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Members Only"
+AuthUserFile /mnt/www/web50/.htpasswd
+<limit GET PUT POST>
+require valid-user
+</limit>
